@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 27 Sep 2022 01:36:09 at https://demo.themefisher.com/agico/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://demo.themefisher.com/agico/ -O1 "F:\My Web Sites\Agico" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:41:05	Error: 	"Not Found" (404) at link https://demo.themefisher.com/agico/images/favicon.ico (from https://demo.themefisher.com/agico/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 minutes 59 seconds : 111 links scanned, 109 files written (4760175 bytes overall) [3688548 bytes received at 5597 bytes/sec], 1616360 bytes transferred using HTTP compression in 31 files, ratio 31%, 4.6 requests per connection
+(1 errors, 0 warnings, 0 messages)
